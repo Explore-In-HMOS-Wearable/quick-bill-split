@@ -21,15 +21,15 @@ export interface HistoryRecord {
 
 @Observed
 export class SplitViewModel {
-  total: number = 0
-  serviceFee: number = 0
-  tipPercentage: number = 0
-  people: number = 1
-  roundingType: RoundingType = RoundingType.NONE
-  currencySymbol: string = '₺'
-  currencyCode: string = 'TRY'
-  isUnequal: boolean = false
-  weights: number[] = []
+  @Track total: number = 0
+  @Track serviceFee: number = 0
+  @Track tipPercentage: number = 0
+  @Track people: number = 1
+  @Track roundingType: RoundingType = RoundingType.NONE
+  @Track currencySymbol: string = '₺'
+  @Track currencyCode: string = 'TRY'
+  @Track isUnequal: boolean = false
+  @Track weights: number[] = []
 
   constructor() {
     this.resetWeights(1)
