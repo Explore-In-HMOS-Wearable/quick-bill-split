@@ -47,6 +47,38 @@
     {
       "name": "p3",
       "value": "Number of People"
+    },
+    {
+      "name": "err_people",
+      "value": "Enter number of people"
+    },
+    {
+      "name": "reset",
+      "value": "Reset"
+    },
+    {
+      "name": "p4",
+      "value": "Tip %"
+    },
+    {
+      "name": "remainder",
+      "value": "Remainder"
+    },
+    {
+      "name": "save",
+      "value": "Save"
+    },
+    {
+      "name": "history_title",
+      "value": "Recent Splits"
+    },
+    {
+      "name": "history_empty",
+      "value": "No saved splits yet"
+    },
+    {
+      "name": "ppl",
+      "value": "ppl"
     }
   ]
 }

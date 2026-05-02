@@ -11,6 +11,10 @@
     {
       "name": "fg",
       "value": "#8d99ae"
+    },
+    {
+      "name": "accent",
+      "value": "#ffd60a"
     }
   ]
 }

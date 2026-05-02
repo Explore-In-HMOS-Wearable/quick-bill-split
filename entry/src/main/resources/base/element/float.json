@@ -3,6 +3,34 @@
     {
       "name": "page_text_font_size",
       "value": "50fp"
+    },
+    {
+      "name": "input_width",
+      "value": "190vp"
+    },
+    {
+      "name": "result_card_border_radius",
+      "value": "30vp"
+    },
+    {
+      "name": "result_card_padding",
+      "value": "20vp"
+    },
+    {
+      "name": "header_font_size",
+      "value": "28fp"
+    },
+    {
+      "name": "result_font_size_large",
+      "value": "22fp"
+    },
+    {
+      "name": "result_font_size_small",
+      "value": "14fp"
+    },
+    {
+      "name": "splash_icon_size",
+      "value": "80vp"
     }
   ]
 }

@@ -21,10 +21,16 @@ struct SplashPage {
   build() {
     Navigation(this.pathStack) {
       Column() {
+        Image($r('app.media.startIcon'))
+          .width($r('app.float.splash_icon_size'))
+          .height($r('app.float.splash_icon_size'))
+          .borderRadius(40)
+          .margin({ bottom: 5 })
+
         Text($r('app.string.welcome'))
-          .fontSize(28)
+          .fontSize($r('app.float.header_font_size'))
           .fontWeight(FontWeight.Bold)
-          .margin({ bottom: 20 })
+          .margin({ bottom: 8 })
 
         Text($r('app.string.split'))
           .fontSize(16)

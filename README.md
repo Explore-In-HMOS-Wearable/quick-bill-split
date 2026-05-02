@@ -1,5 +1,3 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
-
 # QuickBillSplit
 
 QuickBillSplit is a lightweight demo application that helps users quickly split a bill among friends by calculating each
@@ -7,11 +5,12 @@ person's share based on the total amount, service fee, and number of people.
 
 # Preview
 
-<p align="left">
-  <img src="screenshots/splash.png" width="24%">
-  <img src="screenshots/index1.png" width="24%">
-  <img src="screenshots/index2.png" width="24%">
-</p>
+<div>
+  <img src="screenshots/img.png" width="24%">
+  <img src="screenshots/img1.png" width="24%">
+  <img src="screenshots/img2.png" width="24%">
+  <img src="screenshots/img3.png" width="24%">
+</div>
 
 # Use Cases
 
@@ -50,5 +49,5 @@ Huawei Watch 5
 
 # LICENSE
 
-QuickBillSplit is distributed under the terms of the MIT License.  
+**QuickBillSplit** is distributed under the terms of the MIT License.  
 See the [LICENSE](/LICENSE) for more information.
